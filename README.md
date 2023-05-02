@@ -3,12 +3,14 @@ This repo is based on Lunix (see fork repo) and makes changes to run Neovim with
 
 ## Get Start
 The entire toolchain includes items below:
+* **Python**
 * **Neovim** - fundation
 * **Alacritty** - terminal tool
 * **MYSY2** - unix complier env for windows
 * **Ripgrep** - support telescope nvim plugin
 * **Nerd Font** - support nvim tree plugin
 * **Many Plugins** - all handled by the packer inside neovim repo
+* **HDL-checker** - ```pip3 install hdl-checker --upgrade```
 
 Feel free to change any of them if you have a better solution!
 
