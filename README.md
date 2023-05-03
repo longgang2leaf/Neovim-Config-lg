@@ -41,7 +41,7 @@ Or you can run ```Add-Font "C:\Windows\Fonts\fontfile.ttf"``` in Powershell as a
 ## Ripgrep
 The ripgrep supports telescope nvim plugin.
 - [Scoop](https://scoop.sh/#/)
-Run following commands in Powershell to install Scoop:
+Run following commands in Powershell to install Scoop (not in Admin mode):
 ```bash
 $ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
 $ irm get.scoop.sh | iex
