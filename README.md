@@ -30,6 +30,9 @@ Alacritty can work well with nvim-tree plugin and faster. Please copy those 2 fi
 
 Launch Run App in windows and type ``` %APPDATA% ```, create alacritty folder under this path ( *%APPDATA%\alacritty\alacritty.yml* ) and put the configuration files.
 
+Run in git bash and set some alias. C:\Program Files\Git\etc\profile.d\aliases.sh 
+``` alias vtags='python D:/Software/Tools/vtags-3.11/vtags.py' ```
+
 ## Nerd Font
 This type of Font is necessary to dispaly all signs from nvim-tree. Suggest Hack Nerd Font.
 - [Nerd Font](https://www.nerdfonts.com/font-downloads)
