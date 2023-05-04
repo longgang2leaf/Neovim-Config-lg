@@ -22,6 +22,8 @@ It can add to your user PATH automatically. Run ```nvim -v``` in a terminal (ect
 
 Clone this git repo to (~\AppData\Local\) in your windows. After that, you can run ``` :checkhealth ``` in your Neovim to check configuration.
 
+In windows, make sure you add lua package path in your init.lua (you can change it in files from repo)
+
 ## Alacritty
 Download and install Alacritty-v0.12.0-installer.msi (new version prefered)
 - [Alacritty](https://github.com/alacritty/alacritty/releases)
